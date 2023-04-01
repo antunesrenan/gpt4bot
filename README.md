@@ -1,1 +1,1 @@
-# gpt4bot
+# ScapeLabsAI
